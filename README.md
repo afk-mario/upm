@@ -1,11 +1,11 @@
-# Unity Package manager UPM
+# Unity Package Manager UPM
 by [Mario Carballo Zama](http://arlefreak.com/)
 
 run:
 
-´´´
+```
 python3 main.py -i target.unitypackage -o outputFolder
-´´´
+```
 
 ## TODO
 
