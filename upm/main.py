@@ -81,8 +81,8 @@ def CreateFiles(arr, o, package):
             if not os.path.exists(newPath) and not file_extension:
                 os.makedirs(newPath)
         else:
-            gsset.name = newPath
-            print("extracted fil :")
+            asset.name = newPath
+            print("extracted file :")
             print(asset.name)
             nfile = package.extract(asset)
 
