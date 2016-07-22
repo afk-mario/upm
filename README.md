@@ -1,4 +1,4 @@
-# Unity Package manager UPM
+# Unity Package Manager UPM
 by [Mario Carballo Zama](http://arlefreak.com/)
 
 run:
